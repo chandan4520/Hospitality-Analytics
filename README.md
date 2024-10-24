@@ -21,7 +21,7 @@ Fact Bookings table: The primary dataset used for this analysis is the "fact_boo
 
 ### Tools
 
-- Excel - Data Cleaning
+- Excel - Data Cleaning and for insights also
 - MYSQL - Data Analysis
 - PowerBI - Creating reports
 - Tableau - Creating reports
