@@ -1,11 +1,19 @@
 # Hospitality-Analytics
 ------
 
+## Table of contents
+
+-[Project overview](#project-overview)
+-[Data sources](#Data-sources)
+-[Recommendations](#recommendations)
 
 ### Project Overview
 
 This data analysis project aims to provide insights into the revenue performanace of an hotel industry over the week.By analysing various aspects of the revenue
 data,we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the hotel industries performance.
+
+![DASHBOARD](https://github.com/user-attachments/assets/c1045e9b-67dc-41f7-8e44-4a0d3072c875)
+
 
 ### Data Sources
 
@@ -59,6 +67,11 @@ Based on the analysis, we recommend the following actions:
 -Encourage guests to visit Atliq Grands hotel.
 -Reducing Cancellation Rates through Enhanced Booking Practices.
 
+ ### Limitations
+
+ I had to remove all zero values from revenue columns becuase they would have affected the accuracy of my conclusions from the analysis.There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue.
+
+ 
 
 
 
